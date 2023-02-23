@@ -1,5 +1,5 @@
 <template>
-	<a-card> 被放开的一个界面aaa </a-card>
+	<a-card> 被放开的一个界面 </a-card>
 </template>
 
 <script>
